@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'Silkscreen';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/m8JXjfVPf62XiF7kO-i9YLNlbg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Silkscreen';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(../fonts/m8JUjfVPf62XiF7kO-i9aAhAfmyi3Q.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Teko';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(../fonts/LYjYdG7kmE0gV69VVPPdFl06VN_wHIS11zY.ttf) format('truetype');
+}
